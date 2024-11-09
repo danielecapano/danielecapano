@@ -1,4 +1,4 @@
-<h1 align="left">Ciao come va? 😊😊<br>Benvenuto sul mio profilo!👋</h1>
+<h1 align="left">Ciao come va?<br>Benvenuto sul mio profilo!👋</h1>
 
 ###
 
